@@ -7,8 +7,11 @@
  
  ----
 
-![example1](./1.jpg)
-![example2](./2.jpg)
+<div align="center">
+	<img src="./1.jpg" width="520" width="400"></img>
+</div>
+
+> Made with articblushifier
 
 ## Installation
 
