@@ -9,9 +9,9 @@
 
 <div align="center">
 	<img src="./1.jpg" width="520" width="400"></img>
+	<br>
+	<blockquote>Made with articblushifier</blockquote>
 </div>
-
-> Made with articblushifier
 
 ## Installation
 
