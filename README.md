@@ -11,11 +11,7 @@ A simple cli to convert any image to a Articblush themed wallpaper
 
 ### AUR
 
-You can install articblushifier using our AUR articblushifier package:
-
-```sh
-yay -S articblushifier
-```
+Soon:tm:
 
 > You can use any AUR helper :)
 
