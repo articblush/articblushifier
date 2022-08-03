@@ -11,7 +11,7 @@ A simple cli to convert any image to a Articblush themed wallpaper
 
 ### AUR
 
-Soon:tm:
+``` Comming soon WIP```
 
 > You can use any AUR helper :)
 
