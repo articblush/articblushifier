@@ -6,7 +6,6 @@
  <h3 align="center">A simple cli to convert any image to a Articblush themed wallpaper.</h3>
  
  ----
-## Examples
 
 ![example1](./1.jpg)
 ![example2](./2.jpg)
