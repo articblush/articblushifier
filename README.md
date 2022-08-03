@@ -1,7 +1,11 @@
-# 🗼Articblushifier 🏭
+<h1 align="center">
+	<img src="https://github.com/articblush/.github/blob/main/src/articblush56.png" width="25%" alt="Logo"/><br/>
+	Articblushifier</a>
+  </h1>
 
-A simple cli to convert any image to a Articblush themed wallpaper
-
+ <h3 align="center">A simple cli to convert any image to a Articblush themed wallpaper.</h3>
+ 
+ ----
 ## Examples
 
 ![example1](./1.jpg)
